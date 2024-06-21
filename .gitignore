@@ -15,7 +15,8 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+# Auto detect text files and perform LF normalization
+* text=auto
 # Runtime data
 pids
 *.pid
