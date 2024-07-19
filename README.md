@@ -11,7 +11,7 @@ Newsify is a modern news aggregation application built with React. It provides u
 - Usage
 - Author
 - API Reference
-* Deployment
+- Deployment
 - Environment Variables
 
 
