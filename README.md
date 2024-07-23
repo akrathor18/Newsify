@@ -41,7 +41,7 @@ cd Newsify
 4. Create a .env file in the root directory and add your API key:
 
 ```bash
- REACT_APP_NEWS_API_KEY=your_news_api_key
+ VITE_API_KEY=your_news_api_key
 ```
 5. Start the development server:
 ```bash
@@ -58,7 +58,6 @@ npm start
 - Fetch API: For making HTTP requests to the news API.
 - Context API: For state management.
 - Tailwind CSS: For styling the application.
-- Firebase: For user authentication and database
 
 
 ## Usage
